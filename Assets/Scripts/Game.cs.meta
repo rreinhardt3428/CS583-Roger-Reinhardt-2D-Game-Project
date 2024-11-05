@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 94b3881867044c74ca8c525a62f0b508
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - livesText: {instanceID: 0}
+  - GameOver: {fileID: 4629512418054900944, guid: cc46328edfb18bc4b9017908eca1bb39, type: 3}
+  - DeathSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
